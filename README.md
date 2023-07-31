@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mauricevalerio&label=Profile%20views&color=0e75b6&style=flat" alt="mauricevalerio" /> </p>
 
-- 🔭 I’m currently working on [frontendmentor challenge IP Address Tracker](https://www.frontendmentor.io/challenges/ip-address-tracker-I8-0yYAH0)
+- 🔭 I’m currently working on [frontendmentor challenges](https://www.frontendmentor.io/challenges/)
 
 - 🌱 I’m currently learning **TypeScript, Vue, and SASS**
-
-- 👯 I’m looking to contribute on **open source projects**
 
 - 👨‍💻 All of my projects are available at [https://www.mauricevalerio.dev/](https://www.mauricevalerio.dev/)
 
