@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maurice Valerio</h1>
-<h3 align="center">A Frontend Developer</h3>
+<h3 align="center">A Front End Developer</h3>
 
 - 🔭 I’m currently working on [frontendmentor challenges](https://www.frontendmentor.io/challenges)
 
