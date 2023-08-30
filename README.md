@@ -1,6 +1,5 @@
 - I’m currently working on [frontendmentor challenges](https://www.frontendmentor.io/challenges) and reading the book [PHP & MYSQL](https://www.amazon.com/PHP-MySQL-Server-side-Web-Development/dp/1119149215)
-- I’m currently learning **TypeScript, React Redux, SASS/SCSS, and PHP**
-- I'm also planning on learning **Next.js and Flutter**
+- I’m currently learning **TypeScript, SASS/SCSS, and PHP**
 - All of my projects are available at [https://www.mauricevalerio.dev/](https://www.mauricevalerio.dev/)
 - Ask me about **React, JavaScript, CSS, HTML**
 
