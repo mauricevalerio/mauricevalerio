@@ -1,5 +1,5 @@
-- I’m currently working on [frontendmentor challenges](https://www.frontendmentor.io/challenges) and reading the book [PHP & MYSQL](https://www.amazon.com/PHP-MySQL-Server-side-Web-Development/dp/1119149215)
-- I’m currently learning **TypeScript, SASS/SCSS, and PHP**
+- I’m currently working on [Kanban Task Management Challenge using MERN]([https://www.frontendmentor.io/challenges](https://www.frontendmentor.io/challenges/kanban-task-management-web-app-wgQLt-HlbB)) and reading the book [PHP & MYSQL](https://www.amazon.com/PHP-MySQL-Server-side-Web-Development/dp/1119149215)
+- I’m currently learning **TypeScript, SASS/SCSS, Redux, Next, and PHP**
 - All of my projects are available at [https://www.mauricevalerio.dev/](https://www.mauricevalerio.dev/)
 - Ask me about **React, JavaScript, CSS, HTML**
 
