@@ -1,5 +1,5 @@
 - I’m currently learning **SASS/SCSS, Redux, and Next**
-- All of my projects are available at [https://www.mauricevalerio.dev/](https://www.mauricevalerio.dev/)
+- My portfolio projects are available at [https://www.mauricevalerio.dev/](https://www.mauricevalerio.dev/)
 - Ask me about **React, JavaScript, TypeScript, CSS, HTML**
 
 <h3 align="left">Languages and Tools:</h3>
